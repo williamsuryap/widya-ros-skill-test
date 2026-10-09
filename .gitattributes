@@ -1,0 +1,2 @@
+# Keep point cloud files byte-for-byte identical (no EOL conversion)
+*.pcd -text
